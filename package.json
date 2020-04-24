@@ -1,0 +1,27 @@
+{
+  "name": "easy_chronometer",
+  "version": "0.0.1",
+  "description": "Easy chronometer js",
+  "main": "easy_chronometer.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ruivalim/easy_chronometer.git"
+  },
+  "author": "Rui Valim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ruivalim/easy_chronometer/issues"
+  },
+  "homepage": "https://github.com/Ruivalim/easy_chronometer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify-es": "^2.0.0"
+  }
+}
